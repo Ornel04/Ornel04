@@ -6,6 +6,7 @@ Here is the translation in English:
 - 💞️ I’m looking to collaborate on all areas of artificial intelligence
 - 📫 How to reach me: email, mobile phone
 - 😄 Pronouns: he/him
+- ⚡I enjoy working on all kinds of fun projects related to computer science and electronics
 
 <!---
 Ornel04/Ornel04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
